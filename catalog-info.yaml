@@ -8,6 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     scorecard/jsonDataUrl: https://raw.githubusercontent.com/kezri-29/python-test-app-1/refs/heads/main/component-score.json
     argocd/app-name: python-test-app-1
+    jenkins.io/job-full-name: testing/testing-01
 spec:
   type: service
   owner: development
